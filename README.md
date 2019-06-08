@@ -1,5 +1,5 @@
 # livechat
-App using socket.io, expressjs and react.
+This app is using socket.io, expressjs and reactjs.
 
 https://medium.com/@rossbulat/typescript-live-chat-express-and-socket-io-server-setup-8d24fe13d00
 
